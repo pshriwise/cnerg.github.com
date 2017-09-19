@@ -56,8 +56,9 @@ Graduate Students
    aaswenson
    leschultz
       
-.. |cad_img| image:: cad_bitmoji_donut.png 
-             :width: 100
+.. |cad_img| image:: cad_bitmoji.png 
+             :width: 200
+             :target: dangelo.html
 
 .. |pcs_img| image:: shriwise-bitmoji-emoji.png
              :width: 200

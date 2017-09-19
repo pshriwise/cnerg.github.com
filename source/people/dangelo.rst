@@ -1,7 +1,7 @@
 Chelsea D'Angelo
 ================
 
-.. image::  cad_bitmoji.png
+.. image::  cad_bitmoji_donut.png
     :align: center
 
  Contact Information
@@ -16,15 +16,14 @@ Chelsea D'Angelo
 Graduate Appointment
 ---------------------
 
-Research assistant comparing DAGMCNP with the unstructured mesh capability of MCNP6. 
+Research assistant working on a method to reduce the variance in Monte Carlo
+radiation transport calculations involving complex, dynamic geometries.
 
 Research Interests
 -------------------
 
+ * Neutronics analysis of complex, mesh-based geometries
  * Automated variance reduction for Monte Carlo radiation transport
- * Monte Carlo analysis of complex, mesh-based geometries
- * Scientific software development
- 
 
 Education
 ----------
