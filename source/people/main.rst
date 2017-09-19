@@ -56,7 +56,7 @@ Graduate Students
    aaswenson
    leschultz
       
-.. |cad_img| image:: hacker_dangelo.JPG
+.. |cad_img| image:: cad_bitmoji_donut.png 
              :width: 100
 
 .. |pcs_img| image:: hacker_shriwise.JPG

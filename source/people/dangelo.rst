@@ -1,7 +1,10 @@
 Chelsea D'Angelo
 ================
 
-Contact Information
+.. image::  cad_bitmoji.png
+    :align: center
+
+ Contact Information
 --------------------
 
 | 434 Engineering Research Building 
@@ -18,11 +21,14 @@ Research assistant comparing DAGMCNP with the unstructured mesh capability of MC
 Research Interests
 -------------------
 
- * Monte Carlo radiation transport
+ * Automated variance reduction for Monte Carlo radiation transport
+ * Monte Carlo analysis of complex, mesh-based geometries
+ * Scientific software development
  
 
 Education
 ----------
 
  * University of Wisconsin, Madison, WI, PhD in Nuclear Engineering (current)
- * University of Pittsburgh, Pittsburgh, PA, B.S. in Chemical Engineering (2011)
+ * University of Wisconsin, Madison, WI, MS in Nuclear Engineering (2014)
+ * University of Pittsburgh, Pittsburgh, PA, BS in Chemical Engineering (2011)
